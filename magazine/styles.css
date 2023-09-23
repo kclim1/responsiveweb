@@ -109,4 +109,6 @@
 }
 .text-with-images{
   display:grid;
+  grid-template-columns: 1fr 2fr;
+  column-gap: 3rem;
 }
