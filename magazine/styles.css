@@ -143,4 +143,9 @@
       grid-template-columns: 1fr;
     }
   }
-ß  
+
+  @media only screen and (max-width:600px) {
+    .text-with-images {
+      grid-template-columns: 1fr;
+    }
+  }
